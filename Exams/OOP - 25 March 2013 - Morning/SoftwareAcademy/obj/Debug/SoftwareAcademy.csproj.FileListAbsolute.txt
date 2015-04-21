@@ -1,0 +1,5 @@
+A:\GoranTelerik\OOP\Exams\OOP - 25 March 2013 - Morning\SoftwareAcademy\bin\Debug\SoftwareAcademy.exe
+A:\GoranTelerik\OOP\Exams\OOP - 25 March 2013 - Morning\SoftwareAcademy\bin\Debug\SoftwareAcademy.pdb
+A:\GoranTelerik\OOP\Exams\OOP - 25 March 2013 - Morning\SoftwareAcademy\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+A:\GoranTelerik\OOP\Exams\OOP - 25 March 2013 - Morning\SoftwareAcademy\obj\Debug\SoftwareAcademy.exe
+A:\GoranTelerik\OOP\Exams\OOP - 25 March 2013 - Morning\SoftwareAcademy\obj\Debug\SoftwareAcademy.pdb
